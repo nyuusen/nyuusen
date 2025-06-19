@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Skills
+
+- Go
+- TypeScript(Node.js, Next.js)
+- AWS
+- Terraform
